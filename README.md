@@ -21,12 +21,13 @@
   <img src="https://img.shields.io/github/stars/inytss?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
 </p>
 <br>
+
+<!--
 <p align="center">
   <img style="padding-top: 10px" src="https://www.codewars.com/users/inytss/badges/large">
 </p>
 <br>
 
-<!--
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 -->
 
